@@ -1,0 +1,12 @@
+.Footer-lastpart
+{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    padding-top:20px;
+    padding-bottom:40px;
+    background-color:#ECF3FF;
+    color:gray;
+    font-size:18px;
+    letter-spacing:0.2px;
+}

@@ -1,0 +1,89 @@
+.Footer-container
+{
+    display: flex;
+    width: auto;
+    height: auto;
+    padding-top:100px;
+    padding-top:30px;
+    background-color:#ECF3FF;
+    justify-content:center;
+    align-items:center;
+}
+.Footer-innercontainer
+{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 400px;
+}
+.Footer-leftpart
+{
+    display: flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+    flex: 0.6;
+}
+.Footer-rightpart
+{
+    display: flex;
+    flex: 1;
+    width: 100%;
+}
+.Footer-leftheader
+{
+    display: flex;
+    width: 40%;
+    height: 40px;
+    /* background-color:rgb(190, 190, 253); */
+    flex-direction:row;
+    align-items:center;
+    gap: 10px;
+}
+.Footer-leftheadertext
+{
+    font-size:18px;
+    font-weight:bold;
+}
+.Footer-leftdiscriptionpart
+{
+    display: flex;
+    width:40%;
+    height:auto;
+    padding-top:20px;
+    font-size:20px;
+    justify-content:flex-start;
+    /* background-color:cornsilk; */
+    color:grey;
+    /* padding-right: 90px; */
+}
+.Footer-lefticons
+{
+    display:flex;
+    width:40%;
+    flex-direction: row;
+    gap:20px;
+    padding-top: 20px;
+}
+.Footer-rightpart
+{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.Footer-rightfirst
+{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around
+}
+.Footer-rightcontainer
+{
+ display: flex;
+ width: 80%;
+ /* background-color: pink; */
+ flex-direction: row;
+ justify-content:space-around;
+}

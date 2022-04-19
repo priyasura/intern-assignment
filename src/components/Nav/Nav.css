@@ -1,0 +1,49 @@
+.nav-container
+{
+ width: 100%;
+ height: 126px;
+ display: flex;
+ align-items: center;
+ justify-content:center;
+ text-align:center;
+ padding-top:30px;
+ padding-bottom:10px;
+ /* border:1px solid gray */
+}
+.nav-maincontainer
+{
+    /* background-color:pink; */
+    width: 70%;
+     height: 60px;
+     display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-leftpart
+{
+    display: flex;
+}
+.nav-leftheader
+{
+    padding-left:15px;
+    padding-top: 5px;
+    font-weight: 500;
+    font-size:23px;
+}
+.nav-logo
+{
+    padding-left:25px;
+}
+.nav-rightpart
+{
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 25px;
+}
+.nav-list
+{
+    font-size:18px;
+    font-weight: 500;
+
+}

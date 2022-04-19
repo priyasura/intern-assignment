@@ -1,0 +1,57 @@
+.Section4-container {
+    display:flex;
+    width: 100%;
+    height: 800px;
+    padding-top:60px;
+    justify-content:center;
+    align-items:center;
+    background-image: url(../../assets/images/backgroundimg3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Section4-innercontainer {
+    width: 70%;
+    height:auto;
+    /* background-color: pink; */
+    display: flex;
+    flex-direction: row;
+    /* padding-top: 30px; */
+    /* justify-content:space-around; */
+}
+.Section4-imagepart
+{
+    display: flex;
+    flex: 1;
+    padding-left: 130px;
+    /* padding-top: -180px; */
+    /* background-color: aquamarine; */
+    /* justify-content:center;
+    align-items:center; */
+}
+.Section4-textpart
+{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding-top:30px;
+}
+.Section4-textheading
+{
+    display: flex;
+    font-size:80px;
+    font-weight: bold;
+    padding-left:40px;
+    line-height: 1.2;
+}
+.Section4-textdescription
+{
+    width:50%;
+    padding-left:50px;
+    padding-top: 10px;
+    font-size:20px;
+}
+.Section4-buttonpart
+{
+    padding-left:50px;
+    padding-top:20px;
+}

@@ -1,0 +1,40 @@
+.Section3-container
+{
+    display: flex;
+    width: auto;
+    height:auto;
+    padding-top:120px;
+    padding-bottom:100px;
+    justify-content: center;
+    align-items: center;
+    /* background-color:aqua; */
+}
+.Section3-innercontanier
+{
+    display: flex;
+    width: 70%;
+    /* background-color:pink; */
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    /* justify-content: space-around; */
+}
+.Section3-firstpart
+{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    /* gap: 10px; */
+    width: 100%;
+    padding-top:120px;
+}
+.Section3-secondpart
+{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    /* gap: 10px; */
+    width: 70%;
+    padding-top:60px;
+    /* background-color:aqua; */
+}

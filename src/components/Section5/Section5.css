@@ -1,0 +1,55 @@
+.Section5-container {
+    display:flex;
+    width: 100%;
+    height: auto;
+    padding-top:60px;
+    padding-bottom:60px;
+    justify-content:center;
+    align-items:center;
+    background-image: url(../../assets/images/backgroundimg4.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Section5-innercontainer {
+    width: 70%;
+    height:auto;
+    /* background-color: pink; */
+    display: flex;
+    flex-direction: row;
+    padding-top: 40px;
+    /* justify-content:space-around; */
+}
+.Section5-imagepart
+{
+    display: flex;
+    flex: 1;
+    padding-left: 60px;
+    /* justify-content:center;
+    align-items:center; */
+}
+.Section5-textpart
+{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+.Section5-textheading
+{
+    display: flex;
+    font-size:80px;
+    font-weight: bold;
+    padding-left:40px;
+    line-height: 1.2;
+}
+.Section5-textdescription
+{
+    width:50%;
+    padding-left:50px;
+    padding-top: 10px;
+    font-size:20px;
+}
+.Section5-buttonpart
+{
+    padding-left:50px;
+    padding-top:20px;
+}
