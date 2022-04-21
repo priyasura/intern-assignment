@@ -37,26 +37,24 @@ function Section1() {
                             <div><img src={icon1} className="image2"></img></div>
                             <div className="icon_text2">Secret Locations</div>
                             <div className="icon_discription">Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor.</div>
-                            <div style={{color: 'red',textDecoration:'underline',paddingTop:'10px'}}>Read More</div>
+                            <div style={{ color: 'red', textDecoration: 'underline', paddingTop: '10px' }}>Read More</div>
                         </div>
                         <div className="iconpart1">
                             <div><img src={icon2} className="image2"></img></div>
                             <div className="icon_text2">Safe Adventure</div>
                             <div className="icon_discription">Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor.</div>
-                            <div style={{color: 'red',textDecoration:'underline',paddingTop:'10px'}}>Read More</div>
+                            <div style={{ color: 'red', textDecoration: 'underline', paddingTop: '10px' }}>Read More</div>
                         </div>
                         <div className="iconpart1">
                             <div><img src={icon3} className="image2"></img></div>
                             <div className="icon_text2">Professional Hikers</div>
                             <div className="icon_discription">Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor.</div>
-                            <div style={{color: 'red',textDecoration:'underline',paddingTop:'10px'}}>Read More</div>
+                            <div style={{ color: 'red', textDecoration: 'underline', paddingTop: '10px' }}>Read More</div>
                         </div>
-                        {/* <div>1</div> */}
-                        {/* <div>1</div> */}
                     </div>
                 </div>
                 <div className="Section1-lastpart">
-                    <div>Don’t hesitate to contact us to get better Information.<b><i style={{color: 'red'}}>EXPLORE ALL TREKKING.</i></b></div>
+                    <div>Don’t hesitate to contact us to get better Information.<b><i style={{ color: 'red' }}>EXPLORE ALL TREKKING.</i></b></div>
                 </div>
             </div>
         </div>

@@ -12,19 +12,15 @@
 .Section2-innercontainer {
     width: 70%;
     height:auto;
-    /* background-color: pink; */
     display: flex;
     flex-direction: row;
     padding-top: 40px;
-    /* justify-content:space-around; */
 }
 .Section2-imagepart
 {
     display: flex;
     flex: 1;
     padding-left: 60px;
-    /* justify-content:center;
-    align-items:center; */
 }
 .Section2-textpart
 {

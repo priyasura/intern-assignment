@@ -13,8 +13,8 @@ function Section4() {
                     </div>
                 </div>
                 <div className="Section4-imagepart">
-                     <div><img src={img}></img></div>
-              </div>
+                    <div><img src={img}></img></div>
+                </div>
             </div>
         </div>
     )

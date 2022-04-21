@@ -114,21 +114,6 @@ function Section7() {
                         </div>
                     </div>
                 </Slider>
-                {/* <Slider {...settings}>
-          <div className="section7-slidecontainer">
-            <div>hellloooo</div>
-          </div>
-          <div className="section7-slidecontainer">
-            <div></div>
-          </div>
-          {/* <div className="section7-slidecontainer">
-            <div></div>
-          </div>
-          <div className="section7-slidecontainer">
-            <div></div>
-          </div> */}
-
-                {/* </Slider> */}
             </div>
         </div>
     )

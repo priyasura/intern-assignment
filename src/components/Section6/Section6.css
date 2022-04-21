@@ -42,10 +42,8 @@
     flex-direction: row;
     padding-top: 40px;
     width: 80%;
-    /* background-color:pink; */
     justify-content:center;
     align-items: center;
-    /* justify-content:space-between; */
 }
 .Section6-formpart
 {
@@ -82,6 +80,5 @@
     font-size: 18px;
     border:none;
     box-shadow: 2px 2px 2px 2px #adc2e5;
-    /* padding-top: 20px; */
     
 }
