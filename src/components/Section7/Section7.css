@@ -63,3 +63,15 @@
     padding-top:12px;
     font-size:18px;
 }
+.section7-slidericon1
+{  
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.section7-sliderimg
+{
+    padding-left:200px !important;
+}

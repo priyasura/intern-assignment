@@ -5,12 +5,13 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import img1 from '../../assets/images/profile image.png';
 import img2 from '../../assets/icons/Star.svg';
+import img3 from '../../assets/icons/camas.svg';
 function Section7() {
     var settings = {
         dots: true,
         infinite: true,
         speed: 500,
-        slidesToShow: 1.6,
+        slidesToShow: 1.55,
         slidesToScroll: 1,
         centerMode: true,
         arrows: false
@@ -25,7 +26,12 @@ function Section7() {
                 <Slider {...settings}>
                     <div className="section7-slidecontainer">
                         <div className="section7-sliderinnercontainer">
-                            <div><img src={img1}></img></div>
+                        <div className="section7-slidericon1">
+                                <div>
+                                    <img src={img3}></img>
+                                </div>
+                                 <div className="section7-sliderimg"><img src={img1}></img></div>
+                            </div>
                             <div className="section7-slidername">Omar Gouse</div>
                             <div className="section7-sliderstatus">Happy Client</div>
                             <div className="section7-sliderwords">“Everyone working in the office is very knowledgeable about all types of dental work and options for your individual needs.”</div>
@@ -40,7 +46,12 @@ function Section7() {
                     </div>
                     <div className="section7-slidecontainer">
                         <div className="section7-sliderinnercontainer">
-                            <div><img src={img1}></img></div>
+                        <div className="section7-slidericon1">
+                                <div>
+                                    <img src={img3}></img>
+                                </div>
+                                 <div className="section7-sliderimg"><img src={img1}></img></div>
+                            </div>
                             <div className="section7-slidername">Omar Gouse</div>
                             <div className="section7-sliderstatus">Happy Client</div>
                             <div className="section7-sliderwords">“Everyone working in the office is very knowledgeable about all types of dental work and options for your individual needs.”</div>
@@ -55,7 +66,12 @@ function Section7() {
                     </div>
                     <div className="section7-slidecontainer">
                         <div className="section7-sliderinnercontainer">
-                            <div><img src={img1}></img></div>
+                        <div className="section7-slidericon1">
+                                <div>
+                                    <img src={img3}></img>
+                                </div>
+                                 <div className="section7-sliderimg"><img src={img1}></img></div>
+                            </div>
                             <div className="section7-slidername">Omar Gouse</div>
                             <div className="section7-sliderstatus">Happy Client</div>
                             <div className="section7-sliderwords">“Everyone working in the office is very knowledgeable about all types of dental work and options for your individual needs.”</div>
@@ -70,7 +86,12 @@ function Section7() {
                     </div>
                     <div className="section7-slidecontainer">
                         <div className="section7-sliderinnercontainer">
-                            <div><img src={img1}></img></div>
+                        <div className="section7-slidericon1">
+                                <div>
+                                    <img src={img3}></img>
+                                </div>
+                                 <div className="section7-sliderimg"><img src={img1}></img></div>
+                            </div>
                             <div className="section7-slidername">Omar Gouse</div>
                             <div className="section7-sliderstatus">Happy Client</div>
                             <div className="section7-sliderwords">“Everyone working in the office is very knowledgeable about all types of dental work and options for your individual needs.”</div>
@@ -85,7 +106,12 @@ function Section7() {
                     </div>
                     <div className="section7-slidecontainer">
                         <div className="section7-sliderinnercontainer">
-                            <div><img src={img1}></img></div>
+                            <div className="section7-slidericon1">
+                                <div>
+                                    <img src={img3}></img>
+                                </div>
+                                 <div className="section7-sliderimg"><img src={img1}></img></div>
+                            </div>
                             <div className="section7-slidername">Omar Gouse</div>
                             <div className="section7-sliderstatus">Happy Client</div>
                             <div className="section7-sliderwords">“Everyone working in the office is very knowledgeable about all types of dental work and options for your individual needs.”</div>
@@ -100,7 +126,12 @@ function Section7() {
                     </div>
                     <div className="section7-slidecontainer">
                         <div className="section7-sliderinnercontainer">
-                            <div><img src={img1}></img></div>
+                        <div className="section7-slidericon1">
+                                <div>
+                                    <img src={img3}></img>
+                                </div>
+                                 <div className="section7-sliderimg"><img src={img1}></img></div>
+                            </div>
                             <div className="section7-slidername">Omar Gouse</div>
                             <div className="section7-sliderstatus">Happy Client</div>
                             <div className="section7-sliderwords">“Everyone working in the office is very knowledgeable about all types of dental work and options for your individual needs.”</div>
